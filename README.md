@@ -38,7 +38,7 @@ docker-compose run web python manage.py createsuperuser
 ```
 docker-compose exec -ti container_name python manage.py loaddata fixtures.json
 ```
-## Документацияs
+## Документация
 Документация будет доступна после запуска проекта по адресу `/redoc/`
 
 ## Workflow
