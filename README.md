@@ -41,7 +41,7 @@ docker-compose exec -ti container_name python manage.py loaddata fixtures.json
 ## Документацияs
 Документация будет доступна после запуска проекта по адресу `/redoc/`
 
-## Workfslow
+## Workflow
 ![example workflow](https://github.com/ElizavetaAanisimova/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Автор
