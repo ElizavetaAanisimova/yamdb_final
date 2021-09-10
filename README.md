@@ -45,4 +45,4 @@ docker-compose exec -ti container_name python manage.py loaddata fixtures.json
 ![example workflow](https://github.com/ElizavetaAanisimova/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Автор
-Елизавета Анисимоваss
+Елизавета Анисимова
