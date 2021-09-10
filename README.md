@@ -38,8 +38,11 @@ docker-compose run web python manage.py createsuperuser
 ```
 docker-compose exec -ti container_name python manage.py loaddata fixtures.json
 ```
-## Документация
-Документация будет доступна после запуска проекта по адресу `/redoc/`.
+## Документацияs
+Документация будет доступна после запуска проекта по адресу `/redoc/`
+
+## Workfslow
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ElizavetaAanisimova/yamdb_final/yamdb_workflow.yml)
 
 ## Автор
-Елизавета Анисимова
+Елизавета Анисимоваss
