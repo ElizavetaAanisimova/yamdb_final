@@ -39,7 +39,7 @@ docker-compose run web python manage.py createsuperuser
 docker-compose exec -ti container_name python manage.py loaddata fixtures.json
 ```
 ## Документация
-Документация будет доступна после запуска проекта по адресу `/redoc/`.
+Документация будет доступна после запуска проекта по адресу `/redoc/`
 
 ## Workflow
 ![example workflow](https://github.com/ElizavetaAanisimova/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
